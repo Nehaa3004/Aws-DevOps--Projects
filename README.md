@@ -52,7 +52,7 @@ AWS EC2, Application Load Balancer, Auto Scaling Group, CloudWatch
 
 ---
 
-# 🛠️ Skills Demonstrated
+#  Skills Demonstrated
 
 - AWS Cloud (EC2, S3, IAM, Lambda, CloudWatch, ALB, ASG)
 - Linux System Administration
